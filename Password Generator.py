@@ -1,5 +1,4 @@
-# Task 2: Password Generator (GUI Version with Copy Option)
-# Developed by: P. Mohammed Faiz
+
 
 import tkinter as tk
 import random
